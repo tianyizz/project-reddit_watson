@@ -1,0 +1,212 @@
+[
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-03-01 to 2015-03-08",
+    "Count": 93,
+    "Total Size Over Time": 224,
+    "Ratio": 0.41517857142857145
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-03-08 to 2015-03-15",
+    "Count": 45,
+    "Total Size Over Time": 100,
+    "Ratio": 0.45
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-03-15 to 2015-03-22",
+    "Count": 20,
+    "Total Size Over Time": 57,
+    "Ratio": 0.3508771929824561
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-03-22 to 2015-03-29",
+    "Count": 7,
+    "Total Size Over Time": 19,
+    "Ratio": 0.3684210526315789
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-03-29 to 2015-04-07",
+    "Count": 10,
+    "Total Size Over Time": 27,
+    "Ratio": 0.37037037037037035
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-04-07 to 2015-04-14",
+    "Count": 10,
+    "Total Size Over Time": 35,
+    "Ratio": 0.2857142857142857
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-04-16 to 2015-04-23",
+    "Count": 18,
+    "Total Size Over Time": 42,
+    "Ratio": 0.42857142857142855
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-04-23 to 2015-04-30",
+    "Count": 20,
+    "Total Size Over Time": 36,
+    "Ratio": 0.5555555555555556
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-05-05 to 2015-05-12",
+    "Count": 9,
+    "Total Size Over Time": 36,
+    "Ratio": 0.25
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-05-13 to 2015-05-20",
+    "Count": 38,
+    "Total Size Over Time": 68,
+    "Ratio": 0.5588235294117647
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-05-20 to 2015-05-27",
+    "Count": 28,
+    "Total Size Over Time": 63,
+    "Ratio": 0.4444444444444444
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-05-27 to 2015-06-05",
+    "Count": 48,
+    "Total Size Over Time": 97,
+    "Ratio": 0.4948453608247423
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-06-06 to 2015-06-13",
+    "Count": 38,
+    "Total Size Over Time": 123,
+    "Ratio": 0.3089430894308943
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-06-13 to 2015-06-23",
+    "Count": 11,
+    "Total Size Over Time": 21,
+    "Ratio": 0.5238095238095238
+  },
+  {
+    "Sentiment": "Positive",
+    "Time:": "2015-09-09 to 2015-09-25",
+    "Count": 1,
+    "Total Size Over Time": 4,
+    "Ratio": 0.25
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-03-01 to 2015-03-08",
+    "Count": 94,
+    "Total Size Over Time": 224,
+    "Ratio": 0.41964285714285715
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-03-08 to 2015-03-15",
+    "Count": 40,
+    "Total Size Over Time": 100,
+    "Ratio": 0.4
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-03-15 to 2015-03-22",
+    "Count": 29,
+    "Total Size Over Time": 57,
+    "Ratio": 0.5087719298245614
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-03-23 to 2015-03-30",
+    "Count": 11,
+    "Total Size Over Time": 22,
+    "Ratio": 0.5
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-03-30 to 2015-04-07",
+    "Count": 11,
+    "Total Size Over Time": 24,
+    "Ratio": 0.4583333333333333
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-04-07 to 2015-04-14",
+    "Count": 20,
+    "Total Size Over Time": 35,
+    "Ratio": 0.5714285714285714
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-04-14 to 2015-04-21",
+    "Count": 14,
+    "Total Size Over Time": 35,
+    "Ratio": 0.4
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-04-22 to 2015-04-29",
+    "Count": 14,
+    "Total Size Over Time": 41,
+    "Ratio": 0.34146341463414637
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-04-30 to 2015-05-07",
+    "Count": 19,
+    "Total Size Over Time": 33,
+    "Ratio": 0.5757575757575758
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-05-13 to 2015-05-20",
+    "Count": 24,
+    "Total Size Over Time": 73,
+    "Ratio": 0.3287671232876712
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-05-20 to 2015-05-27",
+    "Count": 28,
+    "Total Size Over Time": 63,
+    "Ratio": 0.4444444444444444
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-05-27 to 2015-06-05",
+    "Count": 39,
+    "Total Size Over Time": 97,
+    "Ratio": 0.4020618556701031
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-06-05 to 2015-06-12",
+    "Count": 31,
+    "Total Size Over Time": 69,
+    "Ratio": 0.4492753623188406
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-06-12 to 2015-06-23",
+    "Count": 43,
+    "Total Size Over Time": 75,
+    "Ratio": 0.5733333333333334
+  },
+  {
+    "Sentiment": "Negative",
+    "Time:": "2015-07-12 to 2015-09-09",
+    "Count": 1,
+    "Total Size Over Time": 3,
+    "Ratio": 0.3333333333333333
+  }
+]

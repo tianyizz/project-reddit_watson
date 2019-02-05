@@ -1,0 +1,653 @@
+[
+  {
+    "Key": "controllers",
+    "Occurrence": 5,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-01 20:52:28",
+    "Original Text": "Do we have any pictures of the controllers or the \"base station?"
+  },
+  {
+    "Key": "controllers",
+    "Occurrence": 5,
+    "Sentiment_score": 0.519131,
+    "Time Created": "2015-03-23 01:20:52",
+    "Original Text": "It comes out first, and it comes with controllers.\nSo yeah, I'll pay."
+  },
+  {
+    "Key": "controllers",
+    "Occurrence": 5,
+    "Sentiment_score": -0.452695,
+    "Time Created": "2015-05-19 15:23:49",
+    "Original Text": "The controllers are going to be wireless, so you don't even have to detach them.  The devkits have wired controllers while they work everything out."
+  },
+  {
+    "Key": "controllers",
+    "Occurrence": 5,
+    "Sentiment_score": 0.6793,
+    "Time Created": "2015-05-19 19:00:43",
+    "Original Text": "Well also if it comes with the controllers that means you have to pay for the controllers."
+  },
+  {
+    "Key": "controllers",
+    "Occurrence": 5,
+    "Sentiment_score": 0.598213,
+    "Time Created": "2015-05-22 01:13:31",
+    "Original Text": "Trust me you're going to want the controllers"
+  },
+  {
+    "Key": "thanks",
+    "Occurrence": 5,
+    "Sentiment_score": 0.873393,
+    "Time Created": "2015-03-01 21:38:23",
+    "Original Text": "Awesome, thanks for the reply"
+  },
+  {
+    "Key": "thanks",
+    "Occurrence": 5,
+    "Sentiment_score": 0.808636,
+    "Time Created": "2015-03-03 01:49:16",
+    "Original Text": "Alright, thanks for the response! (:"
+  },
+  {
+    "Key": "thanks",
+    "Occurrence": 5,
+    "Sentiment_score": 0.837633,
+    "Time Created": "2015-04-16 19:15:25",
+    "Original Text": "Right on, thanks for the link!"
+  },
+  {
+    "Key": "thanks",
+    "Occurrence": 5,
+    "Sentiment_score": 0.690253,
+    "Time Created": "2015-04-16 21:16:41",
+    "Original Text": "Saweet, thanks"
+  },
+  {
+    "Key": "thanks",
+    "Occurrence": 5,
+    "Sentiment_score": 0.613129,
+    "Time Created": "2015-05-27 21:53:32",
+    "Original Text": "You had a few things in your explanation that I was unaware of, thanks for that!\n\nI didn't have headphones at all, so no sound and I could also clearly see my hands around my nose."
+  },
+  {
+    "Key": "Oculus",
+    "Occurrence": 8,
+    "Sentiment_score": -0.446846,
+    "Time Created": "2015-03-02 01:24:48",
+    "Original Text": "Then DK2? (No one knows anything about CV1 yet...) it's unfair to compare DK2 to VIVE...\n\n**Vive will destroy CV1, it's pretty obvious from the specs. Oculus don't even have an eta on CV.**\n\nWe collectively stopped overreacting about this within a week after it happened...\n\n**You have, most haven't. They just left it alone, now that there is a superior choice, this becomes a key point.**\n\nI have not seen anything to suggest Oculus does not care about their users... Quite the opposite really...\n\n**Do you seriously believe this? All I have to say is 'Facebook'. Case closed.**\n\nFanboy status unlocked, congratulations.\n\n**Supporting evil companies will hurt consumer like you and me. This is not a fanboy issue, but a way to vote with your money.**\n\nIn all seriousness, I'm hoping a little competition for Oculus will be better for everyone in the long run.\n\n**Oculus died today. There is no way anyone will support a Facebook fuzed VR system in comparison to a Steam 'Gaming' based system. Have fun getting your privacy shredded.**"
+  },
+  {
+    "Key": "Oculus",
+    "Occurrence": 8,
+    "Sentiment_score": 0.602448,
+    "Time Created": "2015-03-02 04:47:16",
+    "Original Text": "Fair enough, but you still had enough faith to support Oculus on Kickstarter in the first place, despite them having no reputation at all."
+  },
+  {
+    "Key": "Oculus",
+    "Occurrence": 8,
+    "Sentiment_score": -0.467679,
+    "Time Created": "2015-03-02 05:28:14",
+    "Original Text": "Notes:\n\"Superior choice\" - Superiority is relative. While we can be confident that Valve will have great software support, we have no idea what the price will be on the Vive. CV1 or some other unannounced HMD might have the best bang:buck ratio.\n\n\"Oculus don't even have an eta\" It's been rumored (more like hoped) that Oculus would announce their release date at GDC.\n\nAs for your argument that Oculus don't care about their users, they haven't released a consumer product yet besides the GearVR (which isn't their product). They're a new company that's inexperienced at creating software and thrust into the limelight of an unexplored field. You're expecting a polished experience from a company who aren't ready to present one yet. Furthermore, it should be noted that the reason they chose Facebook, other than the ludicrous sum of money that they were purchased for, was to ensure that VR WOULD NOT JUST BE ABOUT PC GAMING. Thus, if Oculus chooses to focus their releases on getting mobile VR going and exporing new technological possibilities with behind-the-scene R&amp;D, that's mission accomplished as far as they're concerned. \n\nOh, and Palmer Luckey still posts on the Oculus subreddit."
+  },
+  {
+    "Key": "Oculus",
+    "Occurrence": 8,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-04 19:07:26",
+    "Original Text": "Excited beyond belief. I've read 3 impressions now and they're all full of superlatives. Apparently well above anything Oculus has demoed.\n\n\nI would of course need to try one myself, but, I think, I may just be done with Oculus."
+  },
+  {
+    "Key": "Oculus",
+    "Occurrence": 8,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-05 06:41:33",
+    "Original Text": "What's Oculus again?"
+  },
+  {
+    "Key": "Oculus",
+    "Occurrence": 8,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-05-06 14:54:15",
+    "Original Text": "The optimist in me says that Valve/HTC lit a fire under Oculus' ass. Q1 2016 is broad, but competition might be closer than I thought."
+  },
+  {
+    "Key": "Oculus",
+    "Occurrence": 8,
+    "Sentiment_score": 0.490611,
+    "Time Created": "2015-05-26 12:21:35",
+    "Original Text": "Yeah everyone has been correcting me. Is it the Oculus that's 90? I could have sworn that I heard 90fps somewhere."
+  },
+  {
+    "Key": "Oculus",
+    "Occurrence": 8,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-13 21:17:48",
+    "Original Text": "Anyone know anything about the complexities of porting games from say Oculus to ReVive?  My gut tells me it's simple. Read as much some place but it wasn't a source I trusted 100 percent."
+  },
+  {
+    "Key": "Thanks",
+    "Occurrence": 9,
+    "Sentiment_score": 0.853995,
+    "Time Created": "2015-03-02 09:46:45",
+    "Original Text": "Thanks for your response :)"
+  },
+  {
+    "Key": "Thanks",
+    "Occurrence": 9,
+    "Sentiment_score": 0.526532,
+    "Time Created": "2015-03-06 08:45:33",
+    "Original Text": "Thanks! That's pretty much all I wanted, this generation anyways."
+  },
+  {
+    "Key": "Thanks",
+    "Occurrence": 9,
+    "Sentiment_score": 0.912505,
+    "Time Created": "2015-03-23 20:29:37",
+    "Original Text": "Thanks for your feedback and for reading! /salute/  :D :D :D"
+  },
+  {
+    "Key": "Thanks",
+    "Occurrence": 9,
+    "Sentiment_score": 0.879448,
+    "Time Created": "2015-04-27 03:28:42",
+    "Original Text": "I see. That's a little disappointing, but good to know. Thanks for the answer"
+  },
+  {
+    "Key": "Thanks",
+    "Occurrence": 9,
+    "Sentiment_score": 0.862816,
+    "Time Created": "2015-05-14 19:06:26",
+    "Original Text": "That is great news!  Thanks."
+  },
+  {
+    "Key": "Thanks",
+    "Occurrence": 9,
+    "Sentiment_score": 0.891186,
+    "Time Created": "2015-05-27 03:33:54",
+    "Original Text": "Great article. Thanks for posting"
+  },
+  {
+    "Key": "Thanks",
+    "Occurrence": 9,
+    "Sentiment_score": 0.86564,
+    "Time Created": "2015-05-29 15:35:50",
+    "Original Text": "Thanks for the summary, good read."
+  },
+  {
+    "Key": "Thanks",
+    "Occurrence": 9,
+    "Sentiment_score": 0.897593,
+    "Time Created": "2015-06-10 21:43:49",
+    "Original Text": "Thanks for sharing!"
+  },
+  {
+    "Key": "Thanks",
+    "Occurrence": 9,
+    "Sentiment_score": 0.86209,
+    "Time Created": "2015-06-13 20:35:20",
+    "Original Text": "Good find. Thanks for the share"
+  },
+  {
+    "Key": "VR",
+    "Occurrence": 5,
+    "Sentiment_score": 0.608189,
+    "Time Created": "2015-03-02 13:46:49",
+    "Original Text": "I don't think it's gonna be good and they talk as if whoever gets into the market first is a success.\nStill, good to see VR is getting more attention"
+  },
+  {
+    "Key": "VR",
+    "Occurrence": 5,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-12 13:05:59",
+    "Original Text": "VR is already much more accessible for everyone involved than 3D TVs were."
+  },
+  {
+    "Key": "VR",
+    "Occurrence": 5,
+    "Sentiment_score": -0.470232,
+    "Time Created": "2015-03-19 07:53:09",
+    "Original Text": "I'm sorry but it's hard to even bring myself to read the article all the way through when it starts off by stating that, \"The HTC Vive and Sony\u2019s Project Morpheus were just unveiled\", while the Project Morpheus was unveiled back in March 2014. And promptly after mentions \"Magic Leap\" when it has nothing to even do with VR. Already that makes me fully aware that the author is greatly uninformed and not in a position to write an article like this, and whatever points they make further down will likely be disregarded because I'm not sure I can trust what they're saying.\n\nThis misinformed writing only continues as the article goes on, making it clear that the author has not even tried any of these devices themselves. \"The images are still pixelated and lag a tiny bit\", the image isn't *that* bad at all. Sure, you notice the screen-door effect when you focus on it, but the image itself is fine. And nobody has reported any lag on the latest prototypes, I really don't know where the author took that from.\n\n&gt;They don\u2019t mean that VR is indistinguishable from reality. As Jason Jerald, a technology consultant for VR companies, puts it, \u201cWe can get very engaged in cartoon-like worlds.\u201d Images don\u2019t have to look perfect for presence.\n\nHere we see the author's misunderstanding of the quote. And misunderstanding of what VR needs to be. In order for VR to work, we don't need photorealistic computer graphics, which is what the quote says. Yet, the author insists that photorealistic graphics are essential.\n\nThe author then goes in depth into his statement that latency is killing VR. Which, like I said before, nobody else has reported is the case. I'm not saying there isn't latency, but by now, it's not the cause of motion sickness. The reason why people get motion sickness with the latest VR devices is not latency, but seeing movement on the screen while actually sitting/standing still. Which is why nobody got motion sickness in the HTC Vive demos where they walked around themselves, or any other standing-up demos shown recently. Many people get motion sick in a car, myself included. Is there latency involved anywhere? No.\n\nThe vergence-accommodation conflict is the first part of the article where the author writes anything sensible. And yes, while this is something that should be worked upon, it isn't a key element that destroys a VR experience.\n\nThe wide field-of-view problem is also real and needs to be heavily considered once VR devices start actually reaching these higher FOVs. For now, we'll have to make-do with the lower FOVs, which is far from the solution, but it's good enough for the time being. Once again, it doesn't pull you out of the experience.\n\nMovement is another problem that hasn't been solved. Many different solutions have been suggested, but all of them are either impractical or temporary workarounds.\n\nOverall, this article failed to say anything we don't already know and gave a lot of false information in the first half."
+  },
+  {
+    "Key": "VR",
+    "Occurrence": 5,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-01 21:50:08",
+    "Original Text": "Will be interesting to see how Liquid VR affects HMDs"
+  },
+  {
+    "Key": "VR",
+    "Occurrence": 5,
+    "Sentiment_score": -0.49149,
+    "Time Created": "2015-06-07 17:29:26",
+    "Original Text": "Why does a VR system need $250 worth of keyboard and mice?!"
+  },
+  {
+    "Key": "VR headset",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-02 14:40:26",
+    "Original Text": "I strongly believe that any VR headset with less than 4k resolution is dead in the water. I've used both of the Oculus headsets, and the resolution is so atrocious that there's no way I'd ever use it for games / media more than for the novelty of it. \n\nVR requires presence, and you can't get it when you're looking at a wall of coloured squares hovering in front of your face."
+  },
+  {
+    "Key": "VR headset",
+    "Occurrence": 3,
+    "Sentiment_score": -0.223564,
+    "Time Created": "2015-04-16 00:53:53",
+    "Original Text": "I'm torn. \nI've heard a lot about Vive reducing motion sickness a lot (I don't usually have motion sickness, but I've never actually tried a VR headset), but I don't know if all those games (as in Dreadhalls, Terrorift, Affected, Windlands, etc) will be compatible.\n\nBleugh.\n\nEDIT: And of course, VorpX too."
+  },
+  {
+    "Key": "VR headset",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-09 18:41:00",
+    "Original Text": "Your link is dead, so I've removed this submission to keep the place clean.\n\nAlso, please keep in mind that this is /r/Vive, a subreddit about HTC's upcoming VR headset. You're better off posting this in /r/oculus or /r/virtualreality. :)"
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": -0.855578,
+    "Time Created": "2015-03-02 15:35:03",
+    "Original Text": "I gotta say the Vive looks pretty fucking badass"
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-02 23:09:39",
+    "Original Text": "One two there four Vive!"
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-06 04:07:39",
+    "Original Text": "It's easy: \"five\" rhymes with \"Vive\"."
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": 0.511308,
+    "Time Created": "2015-03-06 18:21:40",
+    "Original Text": "I think it's safe to assume this will also work with Vive"
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-04-07 16:52:42",
+    "Original Text": "The same thing happened to me OP but I noticed just days after the Vive was announced. It's been gone for a while for some reason."
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": 0.579685,
+    "Time Created": "2015-05-16 22:24:47",
+    "Original Text": "I think you're probably right on the price of the Vive, but I think the average requirements for the games will be pretty similar.  The CV1 and Vive have  identical specs in terms of resolution and fps and nothing Oculus is doing prevents someone from targeting only top end systems if they want same as Vive."
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": -0.348571,
+    "Time Created": "2015-05-24 20:45:30",
+    "Original Text": "Considering that after getting Vive you will likely stop going outside at all, then yes, chances are you will no more have any problems with fear of heights."
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": 0.649143,
+    "Time Created": "2015-05-25 18:35:46",
+    "Original Text": "Especially with the input that the Vive brings to the table, this will be *awesome*."
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": -0.3453,
+    "Time Created": "2015-06-12 13:41:37",
+    "Original Text": "I myself has been leaning towards the Vive since it was announced. But, I watched the stream last night and I've got to say that the Rift has some compelling tech, so I just don't know anymore. But we haven't heard much news about the Vive for a while now so most probably, and hopefully we will get much more interesting news in the coming months. One plus is that the Vive will be hitting the market before the Rift. So please Crownlol, elaborate on what made you a Vive man after watching the Rift CV reveal!"
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-12 13:43:44",
+    "Original Text": "I am leaning more towards Vive at this point, put won't make me decision before more info is released"
+  },
+  {
+    "Key": "Vive",
+    "Occurrence": 11,
+    "Sentiment_score": -0.388061,
+    "Time Created": "2015-06-12 18:14:55",
+    "Original Text": "I'm leaning towards the Vive because it's not owned by Facebook."
+  },
+  {
+    "Key": "Valve",
+    "Occurrence": 4,
+    "Sentiment_score": -0.49959,
+    "Time Created": "2015-03-02 15:36:09",
+    "Original Text": "Knowing Valve it probably will. If it doesn't then you can always install windows on your mac"
+  },
+  {
+    "Key": "Valve",
+    "Occurrence": 4,
+    "Sentiment_score": -0.333859,
+    "Time Created": "2015-04-16 21:00:41",
+    "Original Text": "Unfortunately I don't have references. But I was at Valve last week and the guy giving me the demo said a few (maybe most?) of them were made in unity."
+  },
+  {
+    "Key": "Valve",
+    "Occurrence": 4,
+    "Sentiment_score": 0.483814,
+    "Time Created": "2015-06-01 23:43:42",
+    "Original Text": "Valve already using these drivers so i guess they are cool with it."
+  },
+  {
+    "Key": "Valve",
+    "Occurrence": 4,
+    "Sentiment_score": -0.600484,
+    "Time Created": "2015-06-09 15:23:32",
+    "Original Text": "You would expect Valve to show up at an event ending in 3?"
+  },
+  {
+    "Key": "virtual reality",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-02 16:25:29",
+    "Original Text": "If virtual reality is something you have an interest in, switching to contact lenses is always an option.\n\nLASIK prices are also going down every year."
+  },
+  {
+    "Key": "virtual reality",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-09 00:22:15",
+    "Original Text": "Ignoring the problem of playing while sitting do--\" that's not virtual reality though. You may as well use a monitor."
+  },
+  {
+    "Key": "virtual reality",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-05-26 10:51:57",
+    "Original Text": "Thanks for adding that.  A lot of people here just have a casual interest in virtual reality.  So I hope you don't mind if I keep challenging you ."
+  },
+  {
+    "Key": "dev kit",
+    "Occurrence": 5,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-02 22:36:19",
+    "Original Text": "I hope we can buy the dev kit just as we could with the OR DK2. \n\nI really like the look of this HMD.."
+  },
+  {
+    "Key": "dev kit",
+    "Occurrence": 5,
+    "Sentiment_score": 0.219195,
+    "Time Created": "2015-03-07 13:47:41",
+    "Original Text": "Trying to dev for DK2, I'm hoping to get a dev kit for the Vive, otherwise, yeah - as soon as I can place an order for it."
+  },
+  {
+    "Key": "dev kit",
+    "Occurrence": 5,
+    "Sentiment_score": -0.317559,
+    "Time Created": "2015-05-05 19:57:11",
+    "Original Text": "There are going to be a lot of developers who never get a dev kit before the consumer release. My team doesn't have the pull to draw attention and this is seriously going to change the timeline and trajectory of our project for the worse."
+  },
+  {
+    "Key": "dev kit",
+    "Occurrence": 5,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-09 19:47:45",
+    "Original Text": "He probably got a dev kit and was playing the demo.  It's a cool demo, let him be."
+  },
+  {
+    "Key": "dev kit",
+    "Occurrence": 5,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-09 21:07:36",
+    "Original Text": "I'm pretty sure the video is quite old, like 2 months maybe?, iirc you can't play this game with the dev kit, it was a demo available only at some place were vive was shown, I think it might have been the very first time it was shown actually. Good thing he posted it though, more people need to see this, I find this demo extremely fascinating."
+  },
+  {
+    "Key": "HTC Vive",
+    "Occurrence": 3,
+    "Sentiment_score": 0.476024,
+    "Time Created": "2015-03-03 02:25:29",
+    "Original Text": "Ladies and gentlemen, this is the HTC Vive\"\n\n[waits for applause, hollering, hooting, minds being blown]\n\ncricketnoise.wav"
+  },
+  {
+    "Key": "HTC Vive",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-06 07:58:59",
+    "Original Text": "Well, I've got 2 R9 290s, so I'm in the same boat. AMD released their info on getting crossfire to work perfectly for VR though, 1GPU/eye, so I'm set at least for the HTC Vive."
+  },
+  {
+    "Key": "HTC Vive",
+    "Occurrence": 3,
+    "Sentiment_score": 0.484822,
+    "Time Created": "2015-05-20 04:46:07",
+    "Original Text": "Yes, basically what I was wondering. I enjoy VR games with a mouse and keyboard (or Xbox controller). So the main reason I want the HTC Vive is because it's launching first."
+  },
+  {
+    "Key": "HTC",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-04 21:09:44",
+    "Original Text": "i really hope they keep the exposed sensors on the HTC.  It looks so cool."
+  },
+  {
+    "Key": "HTC",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-04-30 09:31:59",
+    "Original Text": "Since its made by HTC, I assume HTC will be the ones selling it."
+  },
+  {
+    "Key": "HTC",
+    "Occurrence": 3,
+    "Sentiment_score": -0.314357,
+    "Time Created": "2015-05-22 00:10:49",
+    "Original Text": "Looking at the launch of the last couple of HTC One phones I'd say it'll take another month from the point of release to get to Europe.  Not too bad."
+  },
+  {
+    "Key": "positional tracking",
+    "Occurrence": 4,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-05 03:07:15",
+    "Original Text": "Those are sensors! You put them in the corner of your room and it will map the room for positional tracking, it shoots lasers and stuff."
+  },
+  {
+    "Key": "positional tracking",
+    "Occurrence": 4,
+    "Sentiment_score": -0.413897,
+    "Time Created": "2015-03-06 22:23:54",
+    "Original Text": "I wouldn't assume so because they're used for positional tracking... Maybe they're just to map the room you're in? Haha, I'm sure we'll know more when the Dev kit is released."
+  },
+  {
+    "Key": "positional tracking",
+    "Occurrence": 4,
+    "Sentiment_score": -0.543425,
+    "Time Created": "2015-03-10 00:07:17",
+    "Original Text": "The minimum is zero room. It can do positional tracking of you leaning in your chair. You don't have to stand up and walk around at all."
+  },
+  {
+    "Key": "positional tracking",
+    "Occurrence": 4,
+    "Sentiment_score": -0.365792,
+    "Time Created": "2015-06-11 10:05:12",
+    "Original Text": "VR headsets are very far from being a \"really fancy monitor\". There's completely different approaches: Gear VR / Zeiss One and all other mobile based headsets don't even have positional tracking (like the DK1). DK2 does have positional tracking but it has a comparatively small area where you can move and only works reliably when you're not turned the other way. SteamVR/Vive on the other hand, has near-perfect room-scale tracking and perfectly tracked controllers.\n\nSo there's actually complete games mechanics that will be totally awesome for SteamVR/Vive (or any \"room-scale VR setup\") that won't really work well with hardware that is oriented towards standing or seated experiences. On the other hand, if you have room-scale VR hardware (like SteamVR / Vive), you can of course easily play games that were designed only for seated/standing hardware.\n\nConcerning APIs: I believe currently, the most versatile approach is using SteamVR because this does support Oculus but also supports SteamVR/Vive. So from the purely technical perspective, you develop once and can run at least these both.\n\nWith Unity 5.1, you have native Oculus integration, native HoloLens integration is announced (that's AR, so it's a different story but it is related) ... Project Morpheus is already supported for Unity (but as far as I know not with the native integration that came with 5.1). Hopefully, eventually you'll be able to have a unified API/approach in Unity that allows you to build for all relevant different hardware approaches. And probably UE4 will be doing the same (they already have native SteamVR integration AFAIK)."
+  },
+  {
+    "Key": "base stations",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-07 15:57:25",
+    "Original Text": "Depends on the price. As long as the cost (including the 2 base stations) is less than $550, I'll be pre-ordering it as soon as possible."
+  },
+  {
+    "Key": "base stations",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-03-07 19:05:47",
+    "Original Text": "It has never been confirmed how Lighthouse actually works and I don't think it is inside-out tracking.  The way I see it, the base stations communicate with the PC, the same way Oculus' camera does.  It shoots lasers, looks at the time it takes to come back and then finds out the distance and position.  The holes on the Vive are like reflectors that the base station recognizes.  Look at \"Tested\" interview with a Valve engineer for some insight.  \n\nIt does not changes your point but it's still ouside-in and it could not work with GearVR since the data is sent to a PC, from the base stations.\n\nEdit: rewatched the talk and you are right it is inside out but not using patterns projected on wall, it uses timing of the lasers.  Anyway it cannot be used for gearvr because the libraries by Valve are not for Android nor for ARM, although they might be someday."
+  },
+  {
+    "Key": "base stations",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-08 12:42:35",
+    "Original Text": "Don't worry - you won't need to connect the base stations in the consumer version of the Vive. :)"
+  },
+  {
+    "Key": "latency",
+    "Occurrence": 3,
+    "Sentiment_score": -0.760284,
+    "Time Created": "2015-03-07 20:39:11",
+    "Original Text": "Wireless adds too much latency. The timing, I suspect, comes from how long it takes the beacon to sweep from sensor to sensor."
+  },
+  {
+    "Key": "latency",
+    "Occurrence": 3,
+    "Sentiment_score": -0.629636,
+    "Time Created": "2015-03-07 20:59:03",
+    "Original Text": "Wireless does not add too much latency. Sometimes protocol negotiation will, and any DAC/ADC steps will add some latency. The waves themselves though aren't slow, and the latency by physics standards is a non-issue."
+  },
+  {
+    "Key": "latency",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-05-21 10:54:01",
+    "Original Text": "Yeah, that tech was up for discussion here a couple of weeks ago. I still wonder if centimeterprecision is enough and what kind of latency (motion2photon) the system gives?"
+  },
+  {
+    "Key": "VR experience",
+    "Occurrence": 3,
+    "Sentiment_score": 0.504522,
+    "Time Created": "2015-03-07 23:59:02",
+    "Original Text": "As I understand it, arcades are still fairly common in Japan. \n\nI expect to see VRcades pop up there, and elsewhere. It's a good way to get the VR experience without paying for a top of the line setup."
+  },
+  {
+    "Key": "VR experience",
+    "Occurrence": 3,
+    "Sentiment_score": 0.889492,
+    "Time Created": "2015-03-08 12:00:31",
+    "Original Text": "Spend as much as you're willing to against how much you want your VR experience to be smooth."
+  },
+  {
+    "Key": "VR experience",
+    "Occurrence": 3,
+    "Sentiment_score": 0.445712,
+    "Time Created": "2015-06-12 18:15:01",
+    "Original Text": "Let me turn that question back to you and ask **what is** the appeal?\n\nLike sell it to me, what games or experiences do you have in mind that would take good advantage of this?   \n    \nWhile I know AAA gaming will hop on board with the seated VR experience, I'm not convinced the \"standing and moving\" VR experience will catch on much.\n\nThe best type of games I can think that a 15x15 constraint would be perfect is a revision of Myst-like game or something like Legend of Grimrock.\n\nI'm not saying there isn't applicability, just that I can't see it becoming the \"next big thing.\" I would love to be wrong."
+  },
+  {
+    "Key": "half life",
+    "Occurrence": 3,
+    "Sentiment_score": -0.203822,
+    "Time Created": "2015-03-16 07:50:54",
+    "Original Text": "I think you have nailed it.  Content is king.  I bought n64 to play mario64.  Atari 2600 to play pitfall.  Wii to play the new zelda.  You can launch a new piece of hardware with just a few KEY launch titles.  Lets all be honest here, if Vive only ships with portal 3, and half life 3, won't everyone buy it just for those few launch titles?  And developers can release titles steadily after that initial launch date for a hardware solution we all have?  Frankly I am beating my head trying to figure out what Oculus can release xmas 15 that would steal away HALF LIFE 3 VR?  Or portal 3 VR?  Carmack did release a game called rage, but it didn't do very well.  What if Valve have DUKE NUKEM VR ready to go? ;)  Or star wars KOTOR VR ready to go?  Or have MMO deal with warcraft VR ready to go on Valve vive solution?  What does oculus do?  The ONLY thing that may tempt me away from Valve and Half Life VR is if nintendo release super mario VR on virtual boy 2 this Xmas, but I don't think so.  SO valve it is, Half life 3 VR here we come (even if they have nothing else ready to go, but I think they will have lots more than just that at xmas release date)"
+  },
+  {
+    "Key": "half life",
+    "Occurrence": 3,
+    "Sentiment_score": -0.440491,
+    "Time Created": "2015-04-09 17:04:56",
+    "Original Text": "Have u used the valve vr demo?  It's a simple question.  Can u answer it?  Some members on this community Have used it.  Several times.  Apparently this martinlandau 00100100 and others that digideger brings up did use it.  Has lots of inside info.  Is trying his best to inform vive subreddit, valve steamvr subreddit, and other vr community members of what he can and not make his friends at Valve unhappy.  There may be ndas involved.  Still he feels it's important this community know certain details and histories.  Especially since for almost a year people at various subreddit thought Gabe and palmer were best friends and half life 3 was coming out on oculus hardware and maybe supported in oculus store.  So consider the messages here as public service announcements to help the Vive community.  Some may lack history.  Context.  Details.  This could affect their business decisions.  They may choose one solution over another.  The more informed they are, the better choices they can make.  Why would oculus moderators not let the community read this information and make up their own mind?   here is how it may affect you.  Maybe you as a developer were thinking of half life 3 extensions or add-ons and by being misinformed were making business plans for oculus hardware and software.  Thinking as many did that Gabe and palmer were beat buddies and half life 3 was coming out on oculus cv1.  However since that is not the case, it's better to have more information so developers and consumers can make better decisions for their future.  As digideger said about this martinlandau 00100100 persons or persons.  They got palmer started in 2009.  Know a lot about what is going on behind the scenes.  That oculus is not cool.  No half life 3.  Cause they angered gaben.  No mine craft vr because they angered notch. No 150 fov lenses because they angered david smith.  So it's been stormy seas.  Lots of us were unsure where to go.  Our ships crashing all over the vr sea.  But I have seen Gaben's lighthouse on the shore and he is going to bring me safely home through an awesome vr portal of security.  I hope you make the right choice"
+  },
+  {
+    "Key": "half life",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-04-11 07:36:18",
+    "Original Text": "Are you high?  Don't you see the picture with Obama holding half life 3 at the white house? :)  grow up."
+  },
+  {
+    "Key": "tinfoil hat",
+    "Occurrence": 3,
+    "Sentiment_score": 0.614583,
+    "Time Created": "2015-04-13 15:46:39",
+    "Original Text": "don't forget your tinfoil hat since facebook is reading brainwaves."
+  },
+  {
+    "Key": "tinfoil hat",
+    "Occurrence": 3,
+    "Sentiment_score": -0.622332,
+    "Time Created": "2015-06-12 21:34:21",
+    "Original Text": "You need to tighten your tinfoil hat there it's becoming a bit loose."
+  },
+  {
+    "Key": "tinfoil hat",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-13 08:29:36",
+    "Original Text": "Hahahahaha. Dude you need a tinfoil hat for your tinfoil hat"
+  },
+  {
+    "Key": "exclusives",
+    "Occurrence": 3,
+    "Sentiment_score": -0.793199,
+    "Time Created": "2015-04-27 18:01:28",
+    "Original Text": "I doubt and also fear the possibility of there being exclusives for either of the headsets, if one decides to do it and the other doesn't, I'm buying the one that doesn't, I really have never liked the idea\n of exclusives."
+  },
+  {
+    "Key": "exclusives",
+    "Occurrence": 3,
+    "Sentiment_score": -0.643924,
+    "Time Created": "2015-06-12 17:51:36",
+    "Original Text": "There shouldn't be any exclusives anyway, unless Microbookulus get their way"
+  },
+  {
+    "Key": "exclusives",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-12 18:00:35",
+    "Original Text": "Always going to have exclusives, unfortunately. Vive will have exclusives, too."
+  },
+  {
+    "Key": "^I ^am ^a",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-05-15 20:16:12",
+    "Original Text": "By mentioning Half-Life 3 you have delayed it by 1 Month. Half-Life 3 is now estimated for release in August 2277\n___\n^I ^am ^a ^bot, ^this ^action ^was ^performed ^automatically. ^If ^you ^have ^feedback ^please ^message ^/u/APIUM- ^or ^for ^more ^info ^go ^to ^/r/WhenIsHL3"
+  },
+  {
+    "Key": "^I ^am ^a",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-11 08:29:07",
+    "Original Text": "By mentioning Half-Life 3 you have delayed it by 1 Month. Half-Life 3 is now estimated for release in February 2429\n___\n^I ^am ^a ^bot, ^this ^action ^was ^performed ^automatically. ^If ^you ^have ^feedback ^please ^message ^/u/APIUM- ^or ^for ^more ^info ^go ^to ^/r/WhenIsHL3"
+  },
+  {
+    "Key": "^I ^am ^a",
+    "Occurrence": 3,
+    "Sentiment_score": 0.0,
+    "Time Created": "2015-06-12 22:09:09",
+    "Original Text": "By mentioning Half-Life 3 you have delayed it by 1 Month. Half-Life 3 is now estimated for release in February 2440\n___\n^I ^am ^a ^bot, ^this ^action ^was ^performed ^automatically. ^If ^you ^have ^feedback ^please ^message ^/u/APIUM- ^or ^for ^more ^info ^go ^to ^/r/WhenIsHL3"
+  },
+  {
+    "Key": "space",
+    "Occurrence": 4,
+    "Sentiment_score": -0.657448,
+    "Time Created": "2015-05-17 03:47:51",
+    "Original Text": "The Vive won't require more space. It may have some games that rely on you having more space.  But it doesn't necessarily require it."
+  },
+  {
+    "Key": "space",
+    "Occurrence": 4,
+    "Sentiment_score": 0.0390323,
+    "Time Created": "2015-05-17 09:53:17",
+    "Original Text": "I think people (Americans?) are underestimating how little space the rest of the world has. Or even their own people in cities. I know several people who wanted a Kinect when they first came out. Not one of them had the floor space free in their living rooms to use use. Here in the UK an 'average' living room might only have 4-6 feet of free space between the TV and sofa, and I think the Kinect wanted 10 or something? We bought one and had to completely rearrange our living room, tipping sofas up against the wall on end, to have the space to use it every time we wanted to.\n\nSame goes for the Vive. IIRC it needs a 4'x6' space, minimum. I *just about* have that in my living room, in front of my TV, but I sure as hell don't in my office where the PC is, or in any other room like any of the bedrooms. The living room is the only room with that amount of space, and my house and space is quite large compared to most of my friends. My wife tends to watch TV/Netflix or play on the XBox while I'm gaming on the PC, so if I'm blocking the TV *while* gaming I don't see that going down well. If I can't use the extra features of the Vive because I don't have the space for a non-seated experience, I might as well get the Rift."
+  },
+  {
+    "Key": "space",
+    "Occurrence": 4,
+    "Sentiment_score": -0.496849,
+    "Time Created": "2015-05-17 17:10:16",
+    "Original Text": "There is no limit on the space that you can use the Vive. It will ship with 2 lighthouses which have a maximum range of 15' x 15'. If you should have a space larger than that, just buy as many lighthouses needed to accommodate the space.\n\nEDIT: As far as obstacles are concerned, it has been suggested that the space will be easily mapped by moving a controller around the perimeter of a room/space. Don't want your couch in the playable area? Don't map it in the space!\n\n**to;dr** - Playable space can be extended indefinitely to support larger spaces by adding extra lighthouses."
+  },
+  {
+    "Key": "space",
+    "Occurrence": 4,
+    "Sentiment_score": -0.655889,
+    "Time Created": "2015-06-12 16:35:25",
+    "Original Text": "Do you have space to dedicate to fully move around in? Most of us don't, or don't want to dedicate that much space."
+  }
+]
