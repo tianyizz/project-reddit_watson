@@ -36,8 +36,9 @@ with open('largeResult.json','w') as outfile:
   for comment in comments_dict:
     counter+=1
     comment_prepared=text_prepare(comment['body'])
+    comment['body']=urlRm(comment['body'])
     #(comment_prepared)
-    if comment_prepared=="0" or ("http" in comment['body']):continue
+    if comment_prepared=="0" :continue
     if len(comment['body'])<4:continue
 
     try:
