@@ -159,6 +159,11 @@ neutral={
     " ":"0"
 }
 
+def urlRm(text):
+    text = REPLACE_URLS.sub(' ', text)
+
+    return text
+
 
 def text_prepare(text):
     text = text.lower()  # lowercase text
