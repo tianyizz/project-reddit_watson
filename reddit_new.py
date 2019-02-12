@@ -50,7 +50,9 @@ with open('largeResult.json','w') as outfile:
                                  ).get_result()
       print('passed')
       print(response)
-    except:
+    except Exception as e:
+      print("Something went wrong.... Error: ", e)
+      print("TODO: log this error somewhere!")
       continue
       
     if ('emotion' not in response) or len(response['keywords'])==0:
