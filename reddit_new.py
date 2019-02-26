@@ -3,8 +3,7 @@ from prepare_corpus import *
 import pandas as pd
 from watson_developer_cloud import NaturalLanguageUnderstandingV1
 import watson_developer_cloud.natural_language_understanding_v1 as ai
-import logging
-logging.basicConfig(filename='error.log', level=logging.ERROR)
+
 # If service instance provides API key authentication
 # service = NaturalLanguageUnderstandingV1(
 #     version='2018-03-16',
@@ -54,9 +53,9 @@ with open('largeResult.json','w') as outfile:
       print(response)
     except Exception as e:
       print("Something went wrong.... Error: ", e)
-      logging.error(e) # This should log any error messages to an error.log file
+      print("TODO: log this error somewhere!")
       continue
-
+      
     if ('emotion' not in response) or len(response['keywords'])==0:
         continue
     print('out!')
@@ -84,5 +83,3 @@ with open('largeResult.json','w') as outfile:
 
 #with open('data.json','w') as outfile:
 # json.dump(response,outfile,indent=2)
-
-# TODO move json.dump within the loop to allow for restarting at a specific file ID, append data in json
