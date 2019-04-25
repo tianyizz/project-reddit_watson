@@ -17,15 +17,32 @@ def getKey(item):
     return int(item["created"])
 
 service = NaturalLanguageUnderstandingV1(
+    version='2018-11-16',
+    iam_apikey='AGBtqHQviQSGkj12ofCHw7J0QsNjDKEj04PW-CRnxt6s',
+    url='https://gateway.watsonplatform.net/natural-language-understanding/api'
+)
+
+'''
+service = NaturalLanguageUnderstandingV1(
     version='2018-03-16',
     ## url is optional, and defaults to the URL below. Use the correct URL for your region.
     url='https://gateway.watsonplatform.net/natural-language-understanding/api',
     username='c2781ef5-373f-4dcb-8ce5-8ac101f00903',
     password='gp0r4wymoCbh')
+'''
 
-with open('largeSample.json', 'r') as inputFile:
-    comments_dict_temp = json.load(inputFile)
-    comments_dict = sorted(comments_dict_temp, key=getKey)
+
+with open('data1.csv', 'r') as inputFile:
+    #comments_dict_temp = json.load(inputFile)
+    comments_dict_temp = pd.read_csv(inputFile)
+
+    print(comments_dict_temp["body"][0])
+
+    comments_dict = comments_dict_temp.sort_values('created')
+    #comments_dict.to_csv('tryResult.csv', index=False, header=False, mode='a', quoting=csv.QUOTE_NONNUMERIC, line_terminator='\n')
+
+
+
 
 # print("-----------------------------------------")
 
@@ -48,10 +65,12 @@ columns = ("comment_id",
            "sentiment_score",
            "sentiment_label")
 
+columnsOther=list('')
+
 # get list of processed comments
 try:
-    output = pd.read_csv(r'C:\Users\Brandon\Desktop\RedditVR\Code\largeResult.csv') # change to fit file directory used
-    processed_comments = output.iloc[:,0].tolist()
+    output = pd.read_csv('largeResult.csv') # change to fit file directory used
+    processed_comments = output.iloc[:,1].tolist()
     print("Found it!")
 except Exception as e:
     print("Warning: unable to load processed results. Error: ", e)
@@ -61,20 +80,25 @@ except Exception as e:
     header_string = ", ".join(columns)+'\n'
     print(header_string)
     #TODO: fix this
-    with open(r'C:\Users\Brandon\Desktop\RedditVR\Code\largeResult.csv', 'w') as f:
+    with open('largeResult.csv', 'w') as f:
         f.write(header_string)
 
     #output.to_csv(index=False, header=True, quoting=csv.QUOTE_NONNUMERIC)
 
+print(processed_comments)
+
+headerDisp=0
 counter = 0
-with open('largeResult.csv', 'w') as outfile:
-    for comment in comments_dict:
+process=0
+with open('largeResult1.csv', 'w') as outfile:
+    for _,comment in comments_dict.iterrows():
+        process+=1
         if comment not in processed_comments:
             counter += 1
             comment_prepared = text_prepare(comment['body'])
-            comment['body'] = urlRm(comment['body'])
             # (comment_prepared)
             if comment_prepared == "0": continue
+            comment['body'] = urlRm(comment['body'])
             if len(comment['body']) < 4: continue
             try:
                 print('in here')
@@ -82,7 +106,7 @@ with open('largeResult.csv', 'w') as outfile:
                                            features=ai.Features(
                                                sentiment=ai.SentimentOptions(),
                                                emotion=ai.EmotionOptions(),
-                                               keywords=ai.KeywordsOptions(sentiment=True, emotion=True, limit=1))
+                                               keywords=ai.KeywordsOptions(sentiment=True, emotion=True, limit=5))
                                            ).get_result()
                 print('passed')
                 print(response)
@@ -91,9 +115,14 @@ with open('largeResult.csv', 'w') as outfile:
                 logging.error(e)  # This should log the error messages to an error.log file
                 continue
 
-            if ('emotion' not in response) or len(response['keywords']) == 0:
+            if ('keywords' not in response) or ('emotion' not in response) or len(response['keywords']) == 0:
                 continue
             print('out!')
+
+            print(response['keywords'])
+            print('~~~~~~~~~~~~~~~~~~~~~~~~~~')
+            print(len(response['keywords']))
+            print('~~~~~~~~~~~~~~~~~~~~~~~~~~')
 
             thisTuple = {"comment_id": comment['comment_id'],
                          "text": comment['body'],
@@ -111,22 +140,20 @@ with open('largeResult.csv', 'w') as outfile:
                          "sentiment_label": response['sentiment']['document']['label']
                          }
             output = output.append(thisTuple, ignore_index=True)
+            print(output)
 
             if counter % 7 == 0:
-                output.to_csv(outfile, index=False, header=False, mode='a', quoting=csv.QUOTE_NONNUMERIC, line_terminator='\n')
-                #json.dump(output, outfile, indent=2)
-                output = pd.DataFrame([], columns=columns)
-                print('dumped!')
+              output.to_csv(outfile, index=False, header=True if headerDisp==0 else False, mode='a', quoting=csv.QUOTE_NONNUMERIC, line_terminator='\n')
+              output = pd.DataFrame([], columns=columns)
+              headerDisp=1
+              print('dumped!')
+                
+
+        print('Process~~~~~~~~~~~~~~~~~~~~',process/2147863,'count~~~~~~~~~~~~~~~~~~~~',process)
 
     # DOES catch final section of output
     #json.dump(output, outfile, indent=2)
-    output.to_csv(outfile, index=False, header=False, mode='a', quoting=csv.QUOTE_NONNUMERIC)
+    output.to_csv(outfile, index=False, header=False,mode='a', quoting=csv.QUOTE_NONNUMERIC)
 
     print('final dump!')
-
-# data_topic=pd.read_json('data.json',encoding='utf-8',sep=',')
-# print(json.dumps(response, indent=2))
-
-# with open('data.json','w') as outfile:
-# json.dump(response,outfile,indent=2)
 
